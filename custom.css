@@ -1,0 +1,26 @@
+.sg-n-forgot-password-text{
+    display:none !important;
+}
+#apg-seal-container > div > a > img {
+    height: 60px !important;
+}
+.ftr-partners-row-inner-bc > a {
+    margin-top: 10px !important;
+}
+
+
+
+
+body {
+    background-image: url(https://cmsbetconstruct.com/storage/medias/kalebet100/media_823_a7fb58069690e1914ec23e2477204e65.jpeg) !important;
+    background-size: contain !important;
+}
+
+
+/* connect to wallet remove */
+.wallet-btn {
+display: none !important;
+}
+.hdr-additional-info .connect-wallet:only-child {
+    display: none !important;
+}

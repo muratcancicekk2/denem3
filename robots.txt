@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="is-mobile">
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, maximum-scale=1, viewport-fit=cover"/>
+
+    <meta name="revisit-after" content="1 Days" />
+
+    <meta name="Robots" content="all" />
+
+    <meta name="google" content="notranslate" />
+
+    
+        
+            <link rel="stylesheet" type="text/css" href="custom.css" id="app-custom-css" />
+        
+    
+        
+            <link rel="shortcut icon" href="favicon.ico?version=1746012319569" />
+        
+    
+        
+            <link rel="manifest" href="manifest.json" />
+        
+    
+        
+            <meta name="author" data-rh="true" content="kalebet100" />
+        
+    
+        
+            <meta name="language" data-rh="true" content="Türkçe" />
+        
+    
+        
+            <meta property="og:type" data-rh="true" content="website" />
+        
+    
+        
+            <meta property="og:title" content="Kalebet | Canlı Bahis, Slot ve Canlı Casino Sitesi" data-rh="true" />
+        
+    
+        
+            <meta name="twitter:title" content="Kalebet | Canlı Bahis, Slot ve Canlı Casino Sitesi" data-rh="true" />
+        
+    
+
+    <title>Kalebet | Canlı Bahis, Slot ve Canlı Casino Sitesi</title>
+  <script type="module" crossorigin src="assets/index-DUU4W4wY.js"></script>
+  <link rel="modulepreload" crossorigin href="https://m.kalebet1218.com/assets/lodash-SZ-LHOv3.js">
+  <link rel="stylesheet" crossorigin href="assets/index-CRWKIR4K.css">
+</head>
+<body>
+<noscript>You need to enable JavaScript to run this app.</noscript>
+<div id="root" class="layout-bc"></div>
+
+
+    
+        <script src="https://validate.cilcuracao.com/verification.js"></script>
+    
+
+    
+        <script src="https://verify.dlagglobal.ca/verification.js"></script>
+    
+
+    
+        <script type="text/javascript" src="firebase-messaging-sw.js"></script>
+    
+
+    
+        <script type="text/javascript" src="modernizr.js"></script>
+    
+
+</body>
+</html>
